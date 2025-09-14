@@ -1,3 +1,1 @@
-Hello, GitHub!
-This is a change.
-Feature line
+Hello, GitHub with a conflict!
