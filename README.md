@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 Hello, GitHub Master!
